@@ -1,0 +1,3 @@
+docker ps
+docker stop mongo
+docker-compose up // if need -d
